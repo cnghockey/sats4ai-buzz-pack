@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "sats4ai": {
+      "command": "npx",
+      "args": ["-y", "sats4ai-mcp"],
+      "env": {}
+    },
+    "lightning-wallet": {
+      "command": "npx",
+      "args": ["-y", "lightning-wallet-mcp"],
+      "env": {}
+    }
+  }
+}

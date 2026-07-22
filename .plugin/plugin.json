@@ -1,0 +1,15 @@
+{
+  "$schema": "https://open-plugin-spec.org/schema/v1/plugin.json",
+  "id": "com.sats4ai.tools",
+  "name": "Sats4AI Tools",
+  "version": "0.1.0",
+  "description": "Give your Buzz agents pay-per-use AI tools — voice, transcription, translation, image generation, and phone / SMS / fax — paid in Bitcoin over Lightning (L402). No login, no API key, no KYC.",
+  "author": "Sats4AI",
+  "license": "MIT",
+  "homepage": "https://sats4ai.com",
+  "keywords": ["ai", "lightning", "bitcoin", "l402", "voice", "translation", "mcp"],
+  "engines": { "buzz": ">=0.4.0" },
+  "personas": ["agents/sats4ai.persona.md"],
+  "pack_instructions": "instructions.md",
+  "mcp_config": ".mcp.json"
+}
