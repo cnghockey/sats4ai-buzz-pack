@@ -102,6 +102,17 @@ The full tool list and pricing lives at **[sats4ai.com/mcp](https://sats4ai.com/
 - Sats4AI: [sats4ai.com](https://sats4ai.com) · MCP: [sats4ai.com/mcp](https://sats4ai.com/mcp) · L402: [sats4ai.com/l402](https://sats4ai.com/l402)
 - Buzz: [github.com/block/buzz](https://github.com/block/buzz)
 
+## Support / donate
+We gave your agents a wallet and a tool shed. They are still not allowed to expense lunch.
+
+If this was useful to you and you like what we do, consider sending a few sats our way:
+
+⚡ **`sats4ai@blink.sv`**
+
+(It's a **Bitcoin Lightning** address: pay it from any Lightning wallet. Looks like an email, isn't one. Lightning sats only: no on-chain, no fiat, no cards, no altcoins, no refunds on gratitude.)
+
+Not this time? That's cool too. We've been there. A star on the repo is a free hug.
+
 ## License
 
 MIT
