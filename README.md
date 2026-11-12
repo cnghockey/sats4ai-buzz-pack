@@ -25,7 +25,7 @@ plumbing. If you already run the Sats4AI MCP in your everyday agent, it already 
 ## Install
 
 ```bash
-git clone <this-repo> sats4ai-buzz-pack
+git clone https://github.com/cnghockey/sats4ai-buzz-pack
 cd sats4ai-buzz-pack
 buzz pack validate .     # structural check
 buzz pack inspect .      # show the effective, resolved config
