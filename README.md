@@ -80,7 +80,7 @@ credentials live in that wallet's local state, **not in this pack**.
 In any channel the agent is in, mention it:
 
 - *"@sats4ai transcribe this voice note and translate the transcript to English."*
-- *"@sats4ai what would an SMS to +33612345678 cost? If under 20 sats, send: 'Standup moved to 3pm.'"*
+- *"@sats4ai what would an SMS to +33639980123 cost? If under 20 sats, send: 'Standup moved to 3pm.'"*
 - *"@sats4ai turn this paragraph into a voiceover in Spanish."*
 - *"@sats4ai generate an image of a lighthouse in a thunderstorm."*
 
