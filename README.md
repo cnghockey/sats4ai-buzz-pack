@@ -101,6 +101,7 @@ The full tool list and pricing lives at **[sats4ai.com/mcp](https://sats4ai.com/
 
 - Sats4AI: [sats4ai.com](https://sats4ai.com) · MCP: [sats4ai.com/mcp](https://sats4ai.com/mcp) · L402: [sats4ai.com/l402](https://sats4ai.com/l402)
 - Buzz: [github.com/block/buzz](https://github.com/block/buzz)
+- **More from us**: [Wandless VR Video Player](https://github.com/cnghockey/wandless-vr-video-player) · [VLC for Android subtitle fix](https://github.com/cnghockey/vlc-android-subtitle-url-fix) · [Bestway Spa Relay](https://github.com/cnghockey/bestway-spa-relay) · [EvoStart Car Relay](https://github.com/cnghockey/evo-start-relay)
 
 ## Support / donate
 We gave your agents a wallet and a tool shed. They are still not allowed to expense lunch.
